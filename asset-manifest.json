@@ -1,21 +1,16 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.469af8d3.css",
-    "main.js": "/personal-portfolio/static/js/main.6d471510.js",
+    "main.css": "/personal-portfolio/static/css/main.73be738d.css",
+    "main.js": "/personal-portfolio/static/js/main.1ff5f65e.js",
     "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
-    "static/media/proj6.png": "/personal-portfolio/static/media/proj6.bbda91ca7f209247913f.png",
-    "static/media/proj5.jpg": "/personal-portfolio/static/media/proj5.0648813998893b8c53d0.jpg",
-    "static/media/proj3.webp": "/personal-portfolio/static/media/proj3.419d7d3eb4e124126660.webp",
-    "static/media/proj2.jpg": "/personal-portfolio/static/media/proj2.496e4d289eaa0f409ab8.jpg",
-    "static/media/proj1.jpg": "/personal-portfolio/static/media/proj1.3fb0bdc7583872ea12b3.jpg",
-    "static/media/proj4.webp": "/personal-portfolio/static/media/proj4.21aa3100d2e1859f6029.webp",
+    "static/media/napoleon_img.png": "/personal-portfolio/static/media/napoleon_img.86423fbbbdaca8494800.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.469af8d3.css.map": "/personal-portfolio/static/css/main.469af8d3.css.map",
-    "main.6d471510.js.map": "/personal-portfolio/static/js/main.6d471510.js.map",
+    "main.73be738d.css.map": "/personal-portfolio/static/css/main.73be738d.css.map",
+    "main.1ff5f65e.js.map": "/personal-portfolio/static/js/main.1ff5f65e.js.map",
     "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.469af8d3.css",
-    "static/js/main.6d471510.js"
+    "static/css/main.73be738d.css",
+    "static/js/main.1ff5f65e.js"
   ]
 }
