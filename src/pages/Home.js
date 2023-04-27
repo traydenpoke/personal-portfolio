@@ -1,7 +1,7 @@
 import React from 'react'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
-import EmailIcon from '@material-ui/icons/Email'
 import GitHubIcon from '@material-ui/icons/GitHub'
+import EmailIcon from '@material-ui/icons/Email'
 import '../styles/Home.css'
 
 
@@ -14,9 +14,15 @@ function Home() {
           <p> 
             A software developer with a passion for artificial intelligence and machine learning.
           </p>
-          <LinkedInIcon />
-          <EmailIcon />
-          <GitHubIcon />
+          <a href="https://www.linkedin.com/in/traydenboucher/" target="_blank">
+            <LinkedInIcon />
+          </a>
+          <a href="https://github.com/traydenpoke" target="_blank">
+            <GitHubIcon />
+          </a>
+          <a href="mailto:trayden.boucher03@gmail.com">
+            <EmailIcon />
+          </a>
         </div>
       </div>
       <div className="skills">
