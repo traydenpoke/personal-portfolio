@@ -5,6 +5,7 @@ export const ProjectList = [
     name: "Civilization VI Mods",
     image: CivProj,
     skills: "XML, SQL, SQLite",
-    githubLink: "https://github.com/traydenpoke/Napoleon-Mod"
+    githubLink: "https://github.com/traydenpoke/Napoleon-Mod",
+    info: "This is info about the project."
   }
 ];

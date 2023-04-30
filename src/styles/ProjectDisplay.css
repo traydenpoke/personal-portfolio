@@ -1,28 +1,41 @@
 .project {
-    width: 100%;
-    height: calc(100vh - 100px);
-    display: flex;
-    
-    align-items: center;
-    flex-direction: column;
-  }
+  width: 100%;
+  height: calc(100vh - 100px);
+  display: flex;
   
-  .project h1 {
-    margin-top: 25px;
-    color: #3e497a;
-    font-size: 35px;
-  }
-  .project img {
-    width: 550px;
-    border-radius: 15px;
-  }
+  align-items: center;
+  flex-direction: column;
+}
   
-  .project p {
-    font-size: 40px;
-    color: #3e497a;
-  }
-  
-  .project svg {
-    font-size: 60px;
-    color: #3e497a;
-  }
+.project h1 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #3e497a;
+  font-size: 50px;
+}
+
+.project img {
+  width: 550px;
+  border-radius: 15px;
+}
+
+.project .skillsText {
+  font-size: 40px;
+  margin-top: 25px;
+}
+
+.project p {
+  font-size: 30px;
+  color: #3e497a;
+  margin-top: 25px;
+  margin-bottom: 0px;
+}
+
+.project svg {
+  font-size: 75px;
+  color: #3e497a;
+}
+
+.project a {
+  margin-top: 35px;
+}
