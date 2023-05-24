@@ -3,11 +3,11 @@ import StatWebsiteProject from "../assets/stat_calculator.png";
 
 export const ProjectList = [
     {
-        name: "Stat Calculator Website",
+        name: "League of Legends Analysis Tool",
         image: StatWebsiteProject,
         skills: "HTML, CSS, Javascript",
         githubLink: "https://github.com/traydenpoke/lol-stat-calc",
-        info: "Developed a website to allow users to calculate combinations of hunderds of items from the video game League of Legends. Responsive, user-friendly, and mobile-friendly to allow for use on all devices."
+        info: "Developed and maintain a statistical analysis website, facilitating effortless interpretation of complex data. Designed with a responsive and intuitive interface, ensuring seamless user experience across all devices."
     },
     {
         name: "Civilization VI Mods",

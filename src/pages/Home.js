@@ -31,13 +31,13 @@ function Home() {
                     <li className="item">
                         <h2> Languages </h2>
                         <span>
-                            Java, Python, C/C++, SQL (MySQL, SQLite), Bash
+                            Java, Python, C/C++, HTML/CSS, JavaScript, SQL (MySQL, SQLite), Bash
                         </span>
                     </li>
                     <li className="item">
                         <h2 > Developer Tools </h2>
                         <span>
-                            Git (Github), VS Code, PyCharm, Eclipse
+                            Git (GitHub), VS Code, Visual Studio, PyCharm, Eclipse
                         </span>
                     </li>
                 </ol>

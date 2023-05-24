@@ -1,21 +1,27 @@
 .footer {
     width: 100%;
-    min-height: 225px;
+    min-height: 250px;
     background: #21325e;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding-top: 10px;
-    margin-top: 260px;
-    /* ensure footer has no whitespace below it on larger screen */
     font-size: 25px;
+    margin-top: auto;
+}
+
+/* to ensure footer stays at bottom on all screen sizes, -roughly 400px so it isn't too far down on the screen */
+.footer-component {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 400px);
 }
 
 .socialMedia svg {
     color: white;
-    margin: 20px;
+    margin: 15px;
     margin-top: 45px;
+    margin-bottom: 10px;
     font-size: 90px;
     cursor: pointer;
     transition: 0.3s;
@@ -32,6 +38,16 @@
 
 @media only screen and (max-width: 600px) {
     .footer svg {
+        font-size: 70px;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    .footer svg {
         font-size: 50px;
+    }
+
+    .footer {
+        font-size: 20px;
     }
 }
