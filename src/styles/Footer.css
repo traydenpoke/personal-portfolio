@@ -7,14 +7,7 @@
     align-items: center;
     flex-direction: column;
     font-size: 25px;
-    margin-top: auto;
-}
-
-/* to ensure footer stays at bottom on all screen sizes, -roughly 400px so it isn't too far down on the screen */
-.footer-component {
-    display: flex;
-    flex-direction: column;
-    min-height: calc(100vh - 400px);
+    margin-top: 260px;
 }
 
 .socialMedia svg {
