@@ -6,21 +6,19 @@ import '../styles/Footer.css';
 
 function Footer() {
     return (
-        <div className="footer-component">
-            <div className="footer">
-                <div className="socialMedia">
-                    <a href="https://www.linkedin.com/in/traydenboucher/" target="_blank">
-                        <LinkedInIcon />
-                    </a>
-                    <a href="https://github.com/traydenpoke" target="_blank">
-                        <GitHubIcon />
-                    </a>
-                    <a href="mailto:trayden.boucher03@gmail.com">
-                        <EmailIcon />
-                    </a>
-                </div>
-                <p> &copy; 2023 Trayden Boucher</p>
+        <div className="footer">
+            <div className="socialMedia">
+                <a href="https://www.linkedin.com/in/traydenboucher/" target="_blank">
+                    <LinkedInIcon />
+                </a>
+                <a href="https://github.com/traydenpoke" target="_blank">
+                    <GitHubIcon />
+                </a>
+                <a href="mailto:trayden.boucher03@gmail.com">
+                    <EmailIcon />
+                </a>
             </div>
+            <p> &copy; 2023 Trayden Boucher</p>
         </div>
     );
 }
