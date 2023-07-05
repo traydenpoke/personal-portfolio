@@ -21,11 +21,11 @@ function Experience() {
                     iconStyle={{ background: "#3e497a", color: "#fff" }}
                     icon={<SchoolIcon />}>
                     <h3 className="vertical-timeline-element-title"> Queen's University, Kingston, Ontario </h3>
-                    <h4 className="vertical-timeline-element-subtitle"> Bachelor of Computer Science (Honours)  </h4>
-                    <p>Relevant Coursework: Data Structures, Algorithms, System Level Programming, Object-Oriented Programming</p>
+                    <h4 className="vertical-timeline-element-subtitle"> Bachelor of Computing (Honours)  </h4>
+                    <p>Relevant Coursework: Data Structures, Algorithms, System Level Programming, Object-Oriented Programming.</p>
                 </VerticalTimelineElement>
             </VerticalTimeline>
-        </div>
+        </div >
     );
 }
 
