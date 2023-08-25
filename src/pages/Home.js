@@ -14,10 +14,10 @@ function Home() {
                     <p>
                         A software developer with a passion for artificial intelligence and machine learning.
                     </p>
-                    <a href="https://www.linkedin.com/in/traydenboucher/" target="_blank">
+                    <a href="https://www.linkedin.com/in/traydenboucher/" target="_blank" rel="noreferrer">
                         <LinkedInIcon />
                     </a>
-                    <a href="https://github.com/traydenpoke" target="_blank">
+                    <a href="https://github.com/traydenpoke" target="_blank" rel="noreferrer">
                         <GitHubIcon />
                     </a>
                     <a href="mailto:trayden.boucher03@gmail.com">
@@ -31,13 +31,19 @@ function Home() {
                     <li className="item">
                         <h2> Languages </h2>
                         <span>
-                            Java, Python, C/C++, HTML/CSS, JavaScript, SQL (MySQL, SQLite), Bash
+                            Java, Python, C/C++, HTML/CSS, JavaScript, SQL, Bash
+                        </span>
+                    </li>
+                    <li className="item">
+                        <h2> Technologies </h2>
+                        <span>
+                            React, Git, MySQL, SQLite
                         </span>
                     </li>
                     <li className="item">
                         <h2 > Developer Tools </h2>
                         <span>
-                            Git (GitHub), VS Code, Visual Studio, PyCharm, Eclipse
+                            GitHub, Visual Studio
                         </span>
                     </li>
                 </ol>
